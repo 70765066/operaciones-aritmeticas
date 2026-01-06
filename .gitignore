@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code details
+.vscode/
+.history/
+*.code-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
